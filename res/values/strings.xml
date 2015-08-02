@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BayMax</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+	 <string name="dialog_title">温馨提示</string>
+    <string name="dialog_message">是否真的要关闭程序 ？</string>
+    <string name="reset_message">是否真的还原初始设置？还原后你所做的设置都会被清空，请注意保存你自己 的设置！</string>
+	<string name="btn_color_picker">字体颜色选择</string>
+    	<string name="ok">确定</string>
+	<string name="cancle">取消</string>
+	<string name="firstrun">welcome！</string>
+	<string name="configbackpic">自定议背景图片时，请把图片做成手机屏幕大小的图</string>
+	<string name="first_et_1">大</string>
+	<string name="first_et_2">白</string>
+	<string name="second_words">
+	    曾经沧海难为水 \n
+	    除却巫山不是云 \n
+	    取次花丛懒回顾 \n
+	    半缘修道半缘君 \n
+	    \n
+	    \n     
+
+
+</string>
+	<string name="thrid_f_et_1">愿得汝心</string>
+	<string name="thrid_f_et_2">白首不离</string>
+	<string name="thrid_s_et_1">你的笑容</string>
+	<string name="thrid_s_et_2">云开雪霁</string>
+	<string name="thrid_s_et_3">你的容颜</string>
+	<string name="thrid_s_et_4">闭月羞花</string>
+	<string name="sugg">欢迎使用</string>
+	    <string name="tishi">welcome！</string>
+</resources>
